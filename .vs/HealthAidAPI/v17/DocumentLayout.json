@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HealthAid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\migrations\\20251025195853_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:migrations\\20251025195853_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\sponsorship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\sponsorship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\ngomession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\ngomession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\ngo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\ngo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\mentalsupportsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\mentalsupportsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\migrations\\20251025134251_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:migrations\\20251025134251_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|c:\\users\\user\\source\\repos\\healthaid\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1C14E3-56ED-4ED9-99ED-BEEDA65A0E64}|HealthAidAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251025195853_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Migrations\\20251025195853_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251025195853_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Migrations\\20251025195853_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251025195853_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:58:53.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T19:16:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251025134251_initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Migrations\\20251025134251_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251025134251_initial.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Migrations\\20251025134251_initial.cs",
+              "RelativeToolTip": "Migrations\\20251025134251_initial.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:27:40.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:24:21.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Consultation.cs",
+              "RelativeDocumentMoniker": "Models\\Consultation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Consultation.cs",
+              "RelativeToolTip": "Models\\Consultation.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:24:13.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:22:19.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NGO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\NGO.cs",
+              "RelativeDocumentMoniker": "Models\\NGO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\NGO.cs",
+              "RelativeToolTip": "Models\\NGO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:22:05.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "Models\\Donor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Donor.cs",
+              "RelativeToolTip": "Models\\Donor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:21:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Donation.cs",
+              "RelativeDocumentMoniker": "Models\\Donation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Donation.cs",
+              "RelativeToolTip": "Models\\Donation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:20:40.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MentalSupportSession.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\MentalSupportSession.cs",
+              "RelativeDocumentMoniker": "Models\\MentalSupportSession.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\MentalSupportSession.cs",
+              "RelativeToolTip": "Models\\MentalSupportSession.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:20:07.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NgoMession.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\NgoMession.cs",
+              "RelativeDocumentMoniker": "Models\\NgoMession.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\NgoMession.cs",
+              "RelativeToolTip": "Models\\NgoMession.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:23:21.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:24:03.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sponsorship.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Sponsorship.cs",
+              "RelativeDocumentMoniker": "Models\\Sponsorship.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Models\\Sponsorship.cs",
+              "RelativeToolTip": "Models\\Sponsorship.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:19:01.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T18:37:37.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-25T18:37:25.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HealthAid\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HealthAid\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T17:41:42.745Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
